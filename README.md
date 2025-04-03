@@ -5,3 +5,6 @@
 * Hincha de River
 * Tengo una perra que se llama Chicha
 * La última película que vi fue Shrek 3
+  
+![image](https://github.com/user-attachments/assets/d5a86a4c-3429-4d72-a2c9-2cd60f1da2d5)
+
